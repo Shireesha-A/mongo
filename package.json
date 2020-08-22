@@ -1,0 +1,17 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui tdd tests/callbacks.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  
+  "dependencies": {
+    "mocha": "^8.1.1",
+    "mongoose": "^5.10.0"
+  }
+}
